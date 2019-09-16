@@ -51,12 +51,12 @@ ul:first-of-type {
 div {
     display: table-cell;
     float: left;
-    margin: 0 0 20px 10px;
+    margin: 0 0 20px 13px;
     vertical-align: top;
     border: 1px solid gray;
     border-radius: 5px;
     text-align: center;
-    width: 23.5%;
+    width: 23%;
     height: fit-content;
 }
 
